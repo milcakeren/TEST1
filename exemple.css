@@ -1,0 +1,44 @@
+div{
+
+
+}
+.hb{
+	background-color: #7958bc;
+	height: 50px;
+
+}
+body{
+	background-image: url(lee.jpg);
+}
+ol  p{
+	
+}
+.haut{
+	background-color: #9aa09f;
+}
+footer{
+	background-color: #7958bc;
+	text-align: center;
+	height: 50px;
+}
+ul li{
+	display: initial;
+	text-align: center;
+	padding: 25 50px;
+	list-style-type: none;
+	color: #000000;
+
+}
+ul li:hover{
+	background-color: #7958bc;
+}
+.bas{
+	background-color: #9aa09f;
+	width: 50%;
+	height: 50%;
+	transform: translateY(+100%);
+	transform: translateX(+50%);
+}
+table tr th img{
+	border-radius: 30px;
+}
